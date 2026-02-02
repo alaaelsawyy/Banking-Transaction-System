@@ -11,7 +11,7 @@ The project aims to simulate basic banking operations, including account managem
 - **Assel Ayad**
 - **Yasmin Ahmed**
 - **Mohamed Reda**
-- **Mohamed Fayz**
+- **Mohamed Fayez**
 - **Mohamed Zaghloul**
 
 ---
